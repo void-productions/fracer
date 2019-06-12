@@ -16,3 +16,7 @@ Cargo.lock
 
 /target
 #**/*.rs.bk
+
+## intellij
+.idea
+fracer.iml
